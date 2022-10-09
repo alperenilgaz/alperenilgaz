@@ -1,4 +1,4 @@
-![Cyber Securıty and  Development](https://miro.medium.com/max/720/1*8FyJoLZ5EyZHNJFSZZVQRA.jpeg)
+![Cyber Securıty and  Development](https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Ftechnology%2Feat-sleep-code-repeat-black-background-programmer-quotes-5947.html&psig=AOvVaw0TKDoD61Jw2HBjurZpUIDl&ust=1665428071850000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCy84Tp0_oCFQAAAAAdAAAAABAE)
 
 
 #  Alperen Ilgaz
