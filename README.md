@@ -32,7 +32,6 @@ I'm Alperen from Turkey, and i am a university student apart from the courses I 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenilgaz&" alt="alperenilgaz" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenilgaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
