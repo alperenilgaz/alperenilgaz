@@ -1,4 +1,4 @@
-![Cyber Securıty and  Development](https://wallpaperaccess.com/full/7167570.png)
+![Cyber Securıty and  Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0uT-NF5lvX8VP0SijWPU_GInVlXRFZ2juEw&usqp=CAU)
 
 
 #  Alperen Ilgaz
