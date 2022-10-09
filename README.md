@@ -1,4 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+![Cyber Securıty and  Development](https://miro.medium.com/max/720/1*8FyJoLZ5EyZHNJFSZZVQRA.jpeg)
+
+
+#  Alperen Ilgaz
+
+I'm Alperen from Turkey, and i am a university student apart from the courses I take, I am improving myself in cyber security and django. I really enjoy learning languages,working on cyber security and from designing websites. That's why I'm trying to improve myself on these issues quickly. You can check out my TryHackMe at https://tryhackme.com/dashboard.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenilgaz&label=Profile%20views&color=0e75b6&style=flat" alt="alperenilgaz" /> </p>
 
@@ -8,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/alperenilgaz](https://github.com/alperenilgaz)
 
-- ⚡ Fun fact **I think ı am very fun**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
