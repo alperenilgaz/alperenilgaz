@@ -1,4 +1,4 @@
-![Cyber Securıty and  Development](https://t4.ftcdn.net/jpg/03/77/78/17/360_F_377781792_j2jOYENO4CDuw9Y6rmioE1yfE1X5L3sv.jpg)
+![Cyber Securıty and  Development](https://wallpaperaccess.com/full/2579360.jpg)
 
 
 #  Alperen Ilgaz
