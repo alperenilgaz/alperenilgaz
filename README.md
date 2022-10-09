@@ -2,8 +2,7 @@
 
 I'm Alperen from Turkey, and i am a university student apart from the courses I take, I am improving myself in cyber security and django. I really enjoy learning languages,working on cyber security and from designing websites. That's why I'm trying to improve myself on these issues quickly. You can check out my TryHackMe at https://tryhackme.com/dashboard.
 
-![Cyber Securıty and  Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.watelectronics.com%2Ftypes-of-programming-languages-with-differences%2F&psig=AOvVaw2k_du-Rsvmv_Hteq07zfhF&ust=1665415243039000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjFhJ-50_oCFQAAAAAdAAAAABAE)
-
+![Cyber Securıty and  Development](https://miro.medium.com/max/720/1*8FyJoLZ5EyZHNJFSZZVQRA.jpeg)
 
 ## Skills and Experince
 * 💻 CSS / HTML  / C++ / C / Python
