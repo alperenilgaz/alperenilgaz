@@ -1,8 +1,10 @@
+![Cyber Securıty and  Development](https://miro.medium.com/max/720/1*8FyJoLZ5EyZHNJFSZZVQRA.jpeg)
+
+
 #  Alperen Ilgaz
 
 I'm Alperen from Turkey, and i am a university student apart from the courses I take, I am improving myself in cyber security and django. I really enjoy learning languages,working on cyber security and from designing websites. That's why I'm trying to improve myself on these issues quickly. You can check out my TryHackMe at https://tryhackme.com/dashboard.
 
-![Cyber Securıty and  Development](https://miro.medium.com/max/720/1*8FyJoLZ5EyZHNJFSZZVQRA.jpeg)
 
 ## Skills and Experince
 * 💻 CSS / HTML  / C++ / C / Python
