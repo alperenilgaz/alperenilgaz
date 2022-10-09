@@ -10,8 +10,9 @@ I'm Alperen from Turkey, and i am a university student apart from the courses I 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenilgaz&label=Profile%20views&color=0e75b6&style=flat" alt="alperenilgaz" /> </p>
 
-💬 Ask me anything about from Here
-📫 How to reach me: alperenilgaz3@gmail.com
+- 💬 Ask me anything about from Here:
+
+- 📫 How to reach me: alperenilgaz3@gmail.com
 
 - 📄 Know about my experiences [https://github.com/alperenilgaz](https://github.com/alperenilgaz)
 
