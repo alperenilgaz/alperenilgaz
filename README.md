@@ -1,4 +1,4 @@
-![Cyber Securıty and  Development](https://image.shutterstock.com/image-vector/conceptual-tag-cloud-containing-names-260nw-234042349.jpg)
+![Cyber Securıty and  Development](https://www.watelectronics.com/wp-content/uploads/different-programming-languages.png)
 
 
 #  Alperen Ilgaz
