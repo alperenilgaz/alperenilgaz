@@ -2,7 +2,7 @@
 
 I'm Alperen from Turkey, and i am a university student apart from the courses I take, I am improving myself in cyber security and django. I really enjoy learning languages,working on cyber security and from designing websites. That's why I'm trying to improve myself on these issues quickly. You can check out my TryHackMe at https://tryhackme.com/dashboard.
 
-![Cyber Securıty and  Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpS471QPhjazYp4R7N2t6hQoytAZBAgU8pkw&usqp=CAU)
+![Cyber Securıty and  Development](file:///C:/Users/alper/OneDrive/Masa%C3%BCst%C3%BC/creating-rolling-out-effective-cyber-security-strategy-1024x440.jpeg.optimal.jpg)
 
 
 ## Skills and Experince
