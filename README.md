@@ -1,4 +1,4 @@
-![Cyber Securıty and  Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0uT-NF5lvX8VP0SijWPU_GInVlXRFZ2juEw&usqp=CAU)
+![Cyber Securıty and  Development](https://t4.ftcdn.net/jpg/03/77/78/17/360_F_377781792_j2jOYENO4CDuw9Y6rmioE1yfE1X5L3sv.jpg)
 
 
 #  Alperen Ilgaz
