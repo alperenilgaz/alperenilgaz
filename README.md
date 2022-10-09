@@ -11,10 +11,7 @@ I'm Alperen from Turkey, and i am a university student apart from the courses I 
 * 🐱‍💻 Cyber Sec
 * ❄  Django
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenilgaz)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperenilgaz&show_icons=true&theme=radical)
-
 
 
 - 🔭 I’m currently working on student 
