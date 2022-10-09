@@ -1,4 +1,3 @@
-
 ### Hi there 👋, Alperen Ilgaz
 #### Cyber Securıty and  Development
 ![Cyber Securıty and  Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpS471QPhjazYp4R7N2t6hQoytAZBAgU8pkw&usqp=CAU)
@@ -7,8 +6,10 @@ I'm Alperen from Turkey, and i am a university student apart from the courses I 
 
 Skills: CSS / HTML  / C++ / C / Python
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on student 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alperenilgaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alperenilgazz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ Alperen İLGAZ)  
 
 
 
