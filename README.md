@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+%2C+there+!+%F0%9F%91%8B;This+is+ALPEREN+ILGAZ...;Nice+to+meet+you+!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+%2C+There+!+%F0%9F%91%8B;This+is+ALPEREN+ILGAZ...;Nice+to+meet+you+!)](https://git.io/typing-svg)
+-----
 #  Alperen Ilgaz
 
 I'm Alperen from Turkey, and i am a university student apart from the courses I take, I am improving myself in cyber security and django. I really enjoy learning languages,working on cyber security and from designing websites. That's why I'm trying to improve myself on these issues quickly. You can check out my TryHackMe at https://tryhackme.com/dashboard.
