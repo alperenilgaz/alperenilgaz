@@ -18,7 +18,7 @@ I'm Alperen from Turkey, and i am a university student apart from the courses I 
 
 - 💬 Ask me anything about from Here:
 
-- 📫 How to reach me: alperenilgaz3@gmail.com
+- 📫 How to reach me: alpilgz1@gmail.com
 
 - 📄 Know about my experiences [https://github.com/alperenilgaz](https://github.com/alperenilgaz)
 
